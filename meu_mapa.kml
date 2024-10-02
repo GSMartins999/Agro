@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="199M7Wu7gqldY6n8NMcYGazLY8EcPZ4px">
+	<name>ARA P1 Renato nascimento KM 20</name>
+	<gx:CascadingStyle kml:id="__managed_style_1AADF94FF8336FF09BB5">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_246EE76792336FF09BB5">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2AA1536D4A336FF09BB8">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1F10426E54336FF09BB8">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0F0F1972A8336FF09BB8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1F10426E54336FF09BB8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2AA1536D4A336FF09BB8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_0ABFA7B66C336FF09BB5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1AADF94FF8336FF09BB5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_246EE76792336FF09BB5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1F91E9B895336FF09BA9">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_03FE75CFD4336FF09BA9">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0C6E9755A0336FF09BA8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_03FE75CFD4336FF09BA9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_1F91E9B895336FF09BA9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="0A7E6E8F0932C62635D9">
+		<name>Projeto: Ação Regenerativa Ambiental</name>
+		<open>1</open>
+		<description><![CDATA[<p class="MsoNormal"><span style=""><span class="font" style="font-family:Arial, sans-serif">O projeto ARA, nasceu para apoiar na propagação da regeneração de áreas devastadas
+ou utilizada com monocultura, implantando o conceito de agrofloresta.</span></span><br></p><p class="MsoNormal"><span style=""><span class="font" style="font-family:Arial, sans-serif">A proposta é
+construir células que serão escaladas e multiplicadas se fortalecendo em
+disseminando uma ação agroecológica que promova um futuro melhor e sustentável para
+todos.</span></span><br></p><div><span style=""><span class="font" style="font-family:Arial, sans-serif"> A realização dessa consultoria é estruturada por um processo que permita
+a execução padronizada, estabelecendo os símbolos, elementos, ilustrações e
+informações que serão distribuídos da mesma forma para todos os clientes.</span></span><br></div><p class="MsoNormal"><span style=""><span class="font" style="font-family:Arial, sans-serif">Em paralelo,
+serão realizados cursos de formação de voluntários com indivíduos desejem reproduzir
+o mesmo trabalho para outros grupos, fazendo que essa iniciativa polinize e
+dissemine todos os benefícios desse projeto como uma espiral virtuosa.</span></span><br></p><div><br></div>]]></description>
+		<styleUrl>#__managed_style_0C6E9755A0336FF09BA8</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="youtube_video_OFO5WWxC4TA">
+				<gx:imageUrl>https://img.youtube.com/vi/OFO5WWxC4TA/hqdefault.jpg</gx:imageUrl>
+			</gx:Image>
+		</gx:Carousel>
+	</Folder>
+	<Placemark id="0D732BF63732C62FAF84">
+		<name>Rodovia Renato Nascimento</name>
+		<gx:mid>/g/1ymwbnq_7</gx:mid>
+		<gx:fid>0x94cb06854ddf460f:0x6f4d2eddc2347275</gx:fid>
+		<LookAt>
+			<longitude>-45.5343869</longitude>
+			<latitude>-22.0199046</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>970.9059089909731</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F0F1972A8336FF09BB8</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-45.5343869,-22.0199046,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04B7E557CE336FE3904D">
+		<name>Polígono sem título</name>
+		<LookAt>
+			<longitude>-45.53209459919889</longitude>
+			<latitude>-22.01915849746517</latitude>
+			<altitude>859.7817636391324</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002725963</gx:fovy>
+			<range>84.56679145522686</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0ABFA7B66C336FF09BB5</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-45.53197565029494,-22.01921488680139,0 -45.53195338155214,-22.01916433373351,0 -45.53210151633042,-22.0191167011767,0 -45.53211677915829,-22.0191474167578,0 -45.53197565029494,-22.01921488680139,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
